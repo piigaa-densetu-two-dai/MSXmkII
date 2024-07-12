@@ -4,6 +4,10 @@ MSX②代標準ファームウェア
 ma20_a.bin
 ma20_o.bin
 
+MSX②代標準ファームウェア(RP5C01機能なし) こちらの方がMSX本体との互換性が高いそうです。上の奴で不具合が出る場合はこちらを使ってください。
+ma20_nortc_a.bin
+ma20_nortc_o.bin
+
 MSX②代日本語USBキーボード対応ファームウェア
 ma20_kbd_a.bin
 ma20_kbd_o.bin
