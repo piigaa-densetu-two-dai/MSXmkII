@@ -40,3 +40,11 @@ perl -p -i -e 's/\x0e\x99/\x0e\x89/g' romfile
 
 TETRIS
 perl -p -i -e 's/\x3e\x98/\x3e\x88/g' romfile
+
+MM(バージョンMM207_K)
+perl -p -i -e 's/\xd3\x98/\xd3\x88/g' MM.COM
+perl -p -i -e 's/\xd3\x99/\xd3\x89/g' MM.COM
+perl -p -i -e 's/\xd3\x9b/\xd3\x8b/g' MM.COM
+perl -p -i -e 's/\xdb\x99/\xdb\x89/g' MM.COM
+perl -p -i -e 's/\x0e\x9b/\x0e\x8b/g' MM.COM
+perl -p -i -e 's/\x01\x9a\x20/\x01\x8a\x20/g' MM.COM
